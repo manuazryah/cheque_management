@@ -1,0 +1,2 @@
+[05-Feb-2017 03:24:12 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/test/Faker/GeneratorTest.php on line 8
+[05-Feb-2017 16:24:30 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/test/Faker/DefaultGeneratorTest.php on line 8

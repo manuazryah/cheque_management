@@ -1,0 +1,2 @@
+[03-Feb-2017 04:58:40 UTC] PHP Fatal error:  Class 'yii\base\Widget' not found in /home/eazycheq/public_html/vendor/newerton/yii2-jcrop/jCrop.php on line 25
+[03-Feb-2017 06:16:46 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/vendor/newerton/yii2-jcrop/jCropAsset.php on line 12

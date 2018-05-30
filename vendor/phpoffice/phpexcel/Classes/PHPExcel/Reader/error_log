@@ -1,0 +1,2 @@
+[05-Feb-2017 20:39:32 UTC] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Exception.php on line 36
+[06-Feb-2017 10:21:28 UTC] PHP Fatal error:  Interface 'PHPExcel_Reader_IReader' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/Abstract.php on line 37

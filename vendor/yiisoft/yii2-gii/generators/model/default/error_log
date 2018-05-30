@@ -1,0 +1,1 @@
+[06-Feb-2017 07:16:38 UTC] PHP Fatal error:  Call to a member function generateTableName() on a non-object in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/model/default/model.php on line 24

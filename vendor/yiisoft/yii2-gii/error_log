@@ -1,0 +1,5 @@
+[03-Feb-2017 04:52:04 UTC] PHP Fatal error:  Class 'yii\base\Module' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/Module.php on line 42
+[03-Feb-2017 05:00:01 UTC] PHP Fatal error:  Class 'yii\base\Object' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/CodeFile.php on line 26
+[03-Feb-2017 05:07:58 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/GiiAsset.php on line 19
+[03-Feb-2017 05:08:25 UTC] PHP Fatal error:  Class 'yii\base\Model' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/Generator.php on line 40
+[03-Feb-2017 06:49:37 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/TypeAheadAsset.php on line 18

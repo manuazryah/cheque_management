@@ -1,0 +1,3 @@
+[06-Feb-2017 15:31:12 UTC] PHP Fatal error:  Class 'HTMLPurifier_Token_Tag' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Token/Start.php on line 7
+[08-Feb-2017 15:55:15 UTC] PHP Fatal error:  Class 'HTMLPurifier_Token' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Token/Text.php on line 13
+[09-Feb-2017 08:25:04 UTC] PHP Fatal error:  Class 'HTMLPurifier_Token' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Token/Tag.php on line 7

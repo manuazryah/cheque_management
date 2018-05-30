@@ -1,0 +1,2 @@
+[06-Feb-2017 15:03:53 UTC] PHP Fatal error:  Class 'HTMLPurifier_Strategy' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Strategy/ValidateAttributes.php on line 8
+[10-Feb-2017 08:17:50 UTC] PHP Fatal error:  Class 'HTMLPurifier_Strategy_Composite' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Strategy/Core.php on line 7

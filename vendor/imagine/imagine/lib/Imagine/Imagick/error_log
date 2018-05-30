@@ -1,0 +1,6 @@
+[05-Feb-2017 23:21:02 UTC] PHP Fatal error:  Interface 'Imagine\Draw\DrawerInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Imagick/Drawer.php on line 27
+[05-Feb-2017 23:47:58 UTC] PHP Fatal error:  Class 'Imagine\Image\AbstractImage' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Imagick/Image.php on line 35
+[05-Feb-2017 23:51:56 UTC] PHP Fatal error:  Class 'Imagine\Image\AbstractLayers' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Imagick/Layers.php on line 22
+[06-Feb-2017 01:28:50 UTC] PHP Fatal error:  Interface 'Imagine\Effects\EffectsInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Imagick/Effects.php on line 22
+[06-Feb-2017 05:09:00 UTC] PHP Fatal error:  Class 'Imagine\Image\AbstractImagine' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Imagick/Imagine.php on line 29
+[06-Feb-2017 11:09:19 UTC] PHP Fatal error:  Class 'Imagine\Image\AbstractFont' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Imagick/Font.php on line 22

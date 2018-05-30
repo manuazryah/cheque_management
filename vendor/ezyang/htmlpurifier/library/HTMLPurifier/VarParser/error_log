@@ -1,0 +1,1 @@
+[07-Feb-2017 14:36:21 UTC] PHP Fatal error:  Class 'HTMLPurifier_VarParser' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/VarParser/Flexible.php on line 9

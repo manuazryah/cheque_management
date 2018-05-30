@@ -1,0 +1,5 @@
+[06-Feb-2017 22:32:15 UTC] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 17
+[11-Feb-2017 18:36:06 UTC] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache/NullKeyCache.php on line 17
+[12-Feb-2017 14:30:32 UTC] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 17
+[13-Feb-2017 06:47:54 UTC] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache/ArrayKeyCache.php on line 17
+[14-Feb-2017 15:41:19 UTC] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache/KeyCacheInputStream.php on line 17

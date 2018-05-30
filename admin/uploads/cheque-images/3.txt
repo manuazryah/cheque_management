@@ -1,0 +1,4 @@
+AZRYAH CPANEL 
+Ip: 184.164.158.253 | HasCgi: n | 
+UserName: azryah
+ PassWord: Tm-B=%[HQ%OU

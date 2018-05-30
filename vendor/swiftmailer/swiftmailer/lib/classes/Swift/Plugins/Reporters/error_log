@@ -1,0 +1,2 @@
+[15-Feb-2017 10:44:19 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 17
+[15-Feb-2017 16:58:23 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 17

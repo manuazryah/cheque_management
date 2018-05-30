@@ -1,0 +1,4 @@
+[26-Jan-2017 23:15:33 UTC] PHP Fatal error:  Class 'yii\base\Model' not found in /home/eazycheq/public_html/frontend/models/SignupForm.php on line 11
+[02-Feb-2017 09:58:51 UTC] PHP Fatal error:  Class 'yii\base\Model' not found in /home/eazycheq/public_html/frontend/models/ContactForm.php on line 12
+[02-Feb-2017 10:55:42 UTC] PHP Fatal error:  Class 'yii\base\Model' not found in /home/eazycheq/public_html/frontend/models/ResetPasswordForm.php on line 12
+[03-Feb-2017 11:36:01 UTC] PHP Fatal error:  Class 'yii\base\Model' not found in /home/eazycheq/public_html/frontend/models/PasswordResetRequestForm.php on line 12

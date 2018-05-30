@@ -1,0 +1,1 @@
+[04-Feb-2017 06:14:47 UTC] PHP Fatal error:  Trait 'cebe\markdown\block\CodeTrait' not found in /home/eazycheq/public_html/vendor/cebe/markdown/block/FencedCodeTrait.php on line 17

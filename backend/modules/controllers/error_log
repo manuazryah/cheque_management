@@ -1,0 +1,1 @@
+[03-Feb-2017 12:56:55 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/controllers/DefaultController.php on line 11

@@ -1,0 +1,5 @@
+[03-Feb-2017 04:55:22 UTC] PHP Fatal error:  Class 'yii\base\Component' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/Panel.php on line 28
+[03-Feb-2017 05:06:55 UTC] PHP Fatal error:  Class 'yii\base\Module' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/Module.php on line 26
+[03-Feb-2017 05:15:28 UTC] PHP Fatal error:  Class 'yii\log\Target' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/LogTarget.php on line 22
+[03-Feb-2017 05:19:31 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/DebugAsset.php on line 19
+[03-Feb-2017 06:55:37 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/TimelineAsset.php on line 19

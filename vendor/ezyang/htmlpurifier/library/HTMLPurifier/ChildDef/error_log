@@ -1,0 +1,2 @@
+[06-Feb-2017 15:59:38 UTC] PHP Fatal error:  Class 'HTMLPurifier_ChildDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Chameleon.php on line 13
+[09-Feb-2017 06:34:19 UTC] PHP Fatal error:  Class 'HTMLPurifier_ChildDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Custom.php on line 10

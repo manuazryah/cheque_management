@@ -1,0 +1,2 @@
+[15-Feb-2017 05:47:18 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 17
+[16-Feb-2017 16:43:28 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 17

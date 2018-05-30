@@ -1,0 +1,4 @@
+[18-Feb-2017 15:09:13 UTC] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth/NTLMAuthenticatorTest.php on line 4
+[18-Feb-2017 15:21:13 UTC] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth/PlainAuthenticatorTest.php on line 4
+[18-Feb-2017 15:25:37 UTC] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth/CramMd5AuthenticatorTest.php on line 4
+[18-Feb-2017 15:41:13 UTC] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth/LoginAuthenticatorTest.php on line 4

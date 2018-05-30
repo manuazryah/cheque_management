@@ -1,0 +1,1 @@
+[05-Feb-2017 19:30:07 UTC] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Chart/Exception.php on line 36

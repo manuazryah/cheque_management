@@ -1,0 +1,1 @@
+[08-Feb-2017 16:21:45 UTC] PHP Fatal error:  Class 'HTMLPurifier_Exception' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/ConfigSchema/Exception.php on line 7

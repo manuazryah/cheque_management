@@ -1,0 +1,1 @@
+[03-Feb-2017 07:17:13 UTC] PHP Fatal error:  Class 'yii\console\controllers\FixtureController' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-faker/FixtureController.php on line 140

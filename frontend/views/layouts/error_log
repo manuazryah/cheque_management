@@ -1,0 +1,3 @@
+[03-Feb-2017 04:32:16 UTC] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/eazycheq/public_html/frontend/views/layouts/main.php on line 17
+[03-Feb-2017 04:42:55 UTC] PHP Fatal error:  Class 'frontend\assets\AppAsset' not found in /home/eazycheq/public_html/frontend/views/layouts/main1.php on line 17
+[03-Feb-2017 05:00:37 UTC] PHP Fatal error:  Class 'frontend\assets\AppAssetDash' not found in /home/eazycheq/public_html/frontend/views/layouts/dashboard.php on line 13

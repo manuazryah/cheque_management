@@ -1,0 +1,8 @@
+[03-Feb-2017 14:40:24 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/UsersController.php on line 15
+[03-Feb-2017 14:42:08 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/DefaultController.php on line 11
+[03-Feb-2017 14:43:12 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/CountryController.php on line 15
+[03-Feb-2017 14:47:20 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/CurrencyController.php on line 15
+[03-Feb-2017 14:56:00 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/MasterBankController.php on line 20
+[03-Feb-2017 14:56:10 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/PrintStatusController.php on line 15
+[03-Feb-2017 14:56:16 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/MasterPlansController.php on line 15
+[03-Feb-2017 15:04:56 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/backend/modules/masters/controllers/MasterChequeDesignController.php on line 20

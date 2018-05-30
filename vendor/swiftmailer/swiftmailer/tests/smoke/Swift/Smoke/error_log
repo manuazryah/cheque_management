@@ -1,0 +1,4 @@
+[08-Feb-2017 14:51:38 UTC] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/BasicSmokeTest.php on line 7
+[11-Feb-2017 18:51:46 UTC] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/HtmlWithAttachmentSmokeTest.php on line 7
+[13-Feb-2017 12:59:12 UTC] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/InternationalSmokeTest.php on line 7
+[14-Feb-2017 15:55:24 UTC] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/AttachmentSmokeTest.php on line 7

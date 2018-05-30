@@ -1,0 +1,2 @@
+[05-Feb-2017 19:10:17 UTC] PHP Fatal error:  Call to a member function getControllerNamespace() on a non-object in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/controller/default/controller.php on line 15
+[06-Feb-2017 10:40:43 UTC] PHP Fatal error:  Call to a member function getControllerID() on a non-object in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/controller/default/view.php on line 15

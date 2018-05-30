@@ -1,0 +1,1 @@
+[03-Feb-2017 16:22:40 UTC] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 17

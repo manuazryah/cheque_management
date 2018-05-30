@@ -1,0 +1,2 @@
+[06-Feb-2017 12:23:33 UTC] PHP Fatal error:  Class 'HTMLPurifier_URIScheme' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/URIScheme/tel.php on line 13
+[09-Feb-2017 06:41:51 UTC] PHP Fatal error:  Class 'HTMLPurifier_URIScheme' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/URIScheme/data.php on line 7

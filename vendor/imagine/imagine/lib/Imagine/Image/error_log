@@ -1,0 +1,8 @@
+[05-Feb-2017 21:20:54 UTC] PHP Fatal error:  Interface 'Imagine\Image\FontInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/AbstractFont.php on line 20
+[05-Feb-2017 21:55:11 UTC] PHP Fatal error:  Interface 'Imagine\Image\ProfileInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Profile.php on line 17
+[05-Feb-2017 22:28:20 UTC] PHP Fatal error:  Interface 'Imagine\Image\PointInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Point.php on line 20
+[06-Feb-2017 01:35:21 UTC] PHP Fatal error:  Interface 'Imagine\Image\BoxInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Box.php on line 20
+[06-Feb-2017 06:25:43 UTC] PHP Fatal error:  Interface 'Imagine\Image\ImageInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/AbstractImage.php on line 18
+[06-Feb-2017 07:06:50 UTC] PHP Fatal error:  Interface 'Imagine\Image\ImagineInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/AbstractImagine.php on line 20
+[06-Feb-2017 07:36:28 UTC] PHP Fatal error:  Interface 'Imagine\Image\ManipulatorInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/ImageInterface.php on line 25
+[06-Feb-2017 09:49:22 UTC] PHP Fatal error:  Interface 'Imagine\Image\LayersInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/AbstractLayers.php on line 15

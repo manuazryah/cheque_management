@@ -1,0 +1,4 @@
+[15-Feb-2017 07:56:18 UTC] PHP Fatal error:  Class 'Faker\Provider\Internet' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/src/Faker/Provider/bg_BG/Internet.php on line 6
+[17-Feb-2017 11:43:27 UTC] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/src/Faker/Provider/bg_BG/Payment.php on line 6
+[17-Feb-2017 13:53:53 UTC] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/src/Faker/Provider/bg_BG/Person.php on line 6
+[18-Feb-2017 01:38:03 UTC] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/src/Faker/Provider/bg_BG/PhoneNumber.php on line 6

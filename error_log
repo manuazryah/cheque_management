@@ -1,0 +1,550 @@
+[13-Jan-2017 09:08:12 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[13-Jan-2017 09:08:12 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[13-Jan-2017 09:08:12 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[13-Jan-2017 09:09:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/eazycheq/public_html/frontend/controllers/SiteController.php on line 27
+[13-Jan-2017 09:09:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/eazycheq/public_html/frontend/controllers/SiteController.php on line 27
+[13-Jan-2017 09:10:35 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[13-Jan-2017 09:10:37 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[13-Jan-2017 09:10:37 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[13-Jan-2017 09:10:38 UTC] PHP Fatal error:  Class 'Html' not found in /home/eazycheq/public_html/frontend/views/site/pricing.php on line 27
+[17-Jan-2017 07:53:31 UTC] PHP Fatal error:  Call to a member function load() on a non-object in /home/eazycheq/public_html/frontend/controllers/DashboardController.php on line 43
+[18-Jan-2017 05:51:56 UTC] PHP Fatal error:  Class 'frontend\modules\payee\controllers\ChequePrint' not found in /home/eazycheq/public_html/frontend/modules/payee/controllers/PayeeController.php on line 161
+[18-Jan-2017 08:08:29 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/BankAccountsController.php on line 126
+[19-Jan-2017 04:07:06 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ExcelView' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/BankAccountsController.php on line 209
+[19-Jan-2017 04:18:31 UTC] PHP Fatal error:  Cannot redeclare frontend\modules\printcheque\controllers\PrintChequeController::actionExport() in /home/eazycheq/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 363
+[20-Jan-2017 09:07:33 UTC] PHP Fatal error:  Class 'Payee' not found in /home/eazycheq/public_html/frontend/modules/printcheque/views/print-cheque/_form.php on line 33
+[21-Jan-2017 09:39:31 UTC] PHP Fatal error:  Call to a member function load() on a non-object in /home/eazycheq/public_html/frontend/controllers/DashboardController.php on line 43
+[25-Jan-2017 11:34:37 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[25-Jan-2017 11:35:15 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[25-Jan-2017 11:35:43 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[25-Jan-2017 11:37:00 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[26-Jan-2017 04:04:23 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[26-Jan-2017 04:04:40 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[26-Jan-2017 04:05:06 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 157
+[27-Jan-2017 09:02:54 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home/eazycheq/public_html/frontend/controllers/DashboardController.php on line 39
+[27-Jan-2017 09:03:23 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home/eazycheq/public_html/frontend/controllers/DashboardController.php on line 39
+[27-Jan-2017 09:03:23 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home/eazycheq/public_html/frontend/controllers/DashboardController.php on line 39
+[27-Jan-2017 10:54:46 UTC] PHP Fatal error:  Class 'ExportMenu' not found in /home/eazycheq/public_html/frontend/modules/printcheque/views/print-cheque/print_all.php on line 161
+[27-Jan-2017 11:04:44 UTC] PHP Fatal error:  Class 'ExportMenu' not found in /home/eazycheq/public_html/frontend/modules/printcheque/views/print-cheque/reports.php on line 183
+[28-Jan-2017 04:53:00 UTC] PHP Fatal error:  Class 'kartik\daterange\DateRangePicker' not found in /home/eazycheq/public_html/frontend/modules/printcheque/views/print-cheque/prints.php on line 130
+[06-Feb-2017 17:52:58 UTC] PHP Fatal error:  Class 'frontend\controllers\UserPlanHistorySearch' not found in /home/eazycheq/public_html/frontend/controllers/DashboardController.php on line 747
+[07-Feb-2017 10:11:35 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[16-Feb-2017 06:01:44 UTC] PHP Fatal error:  Class 'frontend\controllers\UserPlanHistory' not found in /home/eazycheq/public_html/frontend/controllers/SiteController.php on line 262
+[26-Feb-2017 12:32:01 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:02 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:15 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 12:32:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 16:16:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 16:16:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[26-Feb-2017 22:58:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 00:45:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 00:45:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 00:46:51 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 02:01:01 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 04:04:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:08:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:08:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:09:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:09:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:10:39 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:12:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:20:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:20:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:21:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:01 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:18 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:21 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:24 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:36 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:36 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:36 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:22:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:11 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:23:21 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:29:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:29:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:29:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:29:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:29:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:02 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:16 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:30:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:11 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:11 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:24 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:53 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:55 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:55 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:56 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:56 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:32:56 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:02 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:29 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:30 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:33 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:34:34 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:39 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:43 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:44 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:45 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:45 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:46 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 07:57:49 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:45 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:46 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:12:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:51 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:53 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:15:59 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:03 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:08 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:09 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:10 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:16 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:17 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:18 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:16:35 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:17:15 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:29:51 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:29:51 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:15 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:21 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:50:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:51:36 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:51:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:51:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:51:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:51:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:51:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:33 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:33 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:33 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:33 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:34 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:54:43 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:15 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:29 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:29 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:29 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:29 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 09:55:33 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 12:23:35 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 12:23:36 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 12:23:45 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 12:23:45 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 12:23:47 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 12:23:48 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 13:10:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 13:10:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 13:10:21 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 13:10:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 13:10:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 13:10:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 14:56:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 15:26:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 17:15:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 17:34:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 20:34:00 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 20:34:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 20:34:05 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 20:34:06 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 20:34:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 20:34:07 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 22:38:30 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 22:38:32 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[27-Feb-2017 23:02:55 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 04:35:42 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 04:36:11 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 04:36:12 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 04:36:13 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 04:36:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 04:36:14 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:14:17 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:14:22 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:14:25 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:14:26 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:14:28 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:14:31 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:16:40 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:16:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:16:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:16:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:29:57 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:29:58 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:29:58 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:29:59 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:29:59 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:30:04 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:30:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:30:52 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:30:54 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:30:58 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:00 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:34 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:37 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:38 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:31:41 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:34:44 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:34:50 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:36:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:36:19 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:36:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:36:20 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:36:27 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[28-Feb-2017 05:37:31 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[01-Mar-2017 09:37:19 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheq/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 196
+[13-Mar-2017 04:43:43 UTC] PHP Fatal error:  Class 'frontend\controllers\Country' not found in /home/eazycheque/public_html/frontend/controllers/ApiController.php on line 95
+[13-Mar-2017 11:00:44 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[13-Mar-2017 11:01:36 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[13-Mar-2017 11:02:07 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[21-Mar-2017 09:50:20 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 09:50:35 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 09:51:10 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 09:53:18 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 09:54:50 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 09:55:01 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 10:18:59 UTC] PHP Fatal error:  Class 'frontend\modules\bankaccounts\controllers\ChequePrint' not found in /home/eazycheque/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 176
+[21-Mar-2017 13:06:14 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[23-Mar-2017 06:33:42 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[23-Mar-2017 06:34:16 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[23-Mar-2017 09:42:25 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 05:38:54 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 05:39:54 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 06:04:31 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 08:27:57 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 08:40:32 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 08:42:05 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 08:43:52 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 09:26:39 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[27-Mar-2017 09:32:04 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[03-Apr-2017 06:33:01 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[03-Apr-2017 06:33:55 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[03-Apr-2017 06:59:40 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[03-Apr-2017 07:00:26 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[07-Apr-2017 11:29:35 UTC] An Error occurred while handling another error:
+exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)' in /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php:602
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php(602): PDO->__construct('mysql:host=loca...', 'chequemanagemen...', 'JvTFPwDSJhJN', NULL)
+#1 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php(544): yii\db\Connection->createPdoInstance()
+#2 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php(863): yii\db\Connection->open()
+#3 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php(850): yii\db\Connection->getMasterPdo()
+#4 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Command.php(219): yii\db\Connection->getSlavePdo()
+#5 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Command.php(894): yii\db\Command->prepare(true)
+#6 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Command.php(362): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/mysql/Schema.php(198): yii\db\Command->queryAll()
+#8 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/mysql/Schema.php(97): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#9 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Schema.php(147): yii\db\mysql\Schema->loadTableSchema('users')
+#10 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/ActiveRecord.php(296): yii\db\Schema->getTableSchema('users')
+#11 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/ActiveRecord.php(330): yii\db\ActiveRecord::getTableSchema()
+#12 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/BaseActiveRecord.php(461): yii\db\ActiveRecord->attributes()
+#13 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/BaseActiveRecord.php(280): yii\db\BaseActiveRecord->hasAttribute('email_id')
+#14 /home/eazycheque/public_html/vendor/yiisoft/yii2/helpers/BaseHtml.php(2044): yii\db\BaseActiveRecord->__get('email_id')
+#15 /home/eazycheque/public_html/vendor/yiisoft/yii2/helpers/BaseHtml.php(1246): yii\helpers\BaseHtml::getAttributeValue(Object(common\models\Users), 'email_id')
+#16 /home/eazycheque/public_html/vendor/yiisoft/yii2/helpers/BaseHtml.php(1295): yii\helpers\BaseHtml::activeInput('text', Object(common\models\Users), 'email_id', Array)
+#17 /home/eazycheque/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php(386): yii\helpers\BaseHtml::activeTextInput(Object(common\models\Users), 'email_id', Array)
+#18 /home/eazycheque/public_html/frontend/views/layouts/main.php(226): yii\widgets\ActiveField->textInput(Array)
+#19 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/View.php(326): require('/home/eazychequ...')
+#20 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/View.php(248): yii\base\View->renderPhpFile('/home/eazychequ...', Array)
+#21 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Controller.php(393): yii\base\View->renderFile('/home/eazychequ...', Array, Object(frontend\controllers\SiteController))
+#22 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Controller.php(379): yii\base\Controller->renderContent('<div class="sit...')
+#23 /home/eazycheque/public_html/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#24 [internal function]: yii\web\ErrorAction->run()
+#25 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#26 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Controller.php(154): yii\base\Action->runWithParams(Array)
+#27 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('error', Array)
+#28 /home/eazycheque/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(93): yii\base\Module->runAction('site/error')
+#29 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(109): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#30 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#31 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)' in /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php:549
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php(863): yii\db\Connection->open()
+#1 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Connection.php(850): yii\db\Connection->getMasterPdo()
+#2 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Command.php(219): yii\db\Connection->getSlavePdo()
+#3 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Command.php(894): yii\db\Command->prepare(true)
+#4 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Command.php(362): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/mysql/Schema.php(198): yii\db\Command->queryAll()
+#6 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/mysql/Schema.php(97): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#7 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/Schema.php(147): yii\db\mysql\Schema->loadTableSchema('users')
+#8 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/ActiveRecord.php(296): yii\db\Schema->getTableSchema('users')
+#9 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/ActiveRecord.php(330): yii\db\ActiveRecord::getTableSchema()
+#10 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/BaseActiveRecord.php(461): yii\db\ActiveRecord->attributes()
+#11 /home/eazycheque/public_html/vendor/yiisoft/yii2/db/BaseActiveRecord.php(280): yii\db\BaseActiveRecord->hasAttribute('email_id')
+#12 /home/eazycheque/public_html/vendor/yiisoft/yii2/helpers/BaseHtml.php(2044): yii\db\BaseActiveRecord->__get('email_id')
+#13 /home/eazycheque/public_html/vendor/yiisoft/yii2/helpers/BaseHtml.php(1246): yii\helpers\BaseHtml::getAttributeValue(Object(common\models\Users), 'email_id')
+#14 /home/eazycheque/public_html/vendor/yiisoft/yii2/helpers/BaseHtml.php(1295): yii\helpers\BaseHtml::activeInput('text', Object(common\models\Users), 'email_id', Array)
+#15 /home/eazycheque/public_html/vendor/yiisoft/yii2/widgets/ActiveField.php(386): yii\helpers\BaseHtml::activeTextInput(Object(common\models\Users), 'email_id', Array)
+#16 /home/eazycheque/public_html/frontend/views/layouts/main.php(226): yii\widgets\ActiveField->textInput(Array)
+#17 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/View.php(326): require('/home/eazychequ...')
+#18 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/View.php(248): yii\base\View->renderPhpFile('/home/eazychequ...', Array)
+#19 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Controller.php(393): yii\base\View->renderFile('/home/eazychequ...', Array, Object(frontend\controllers\SiteController))
+#20 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Controller.php(379): yii\base\Controller->renderContent('<div class="sit...')
+#21 /home/eazycheque/public_html/vendor/yiisoft/yii2/web/ErrorAction.php(109): yii\base\Controller->render('error', Array)
+#22 [internal function]: yii\web\ErrorAction->run()
+#23 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Action.php(92): call_user_func_array(Array, Array)
+#24 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Controller.php(154): yii\base\Action->runWithParams(Array)
+#25 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('error', Array)
+#26 /home/eazycheque/public_html/vendor/yiisoft/yii2/web/ErrorHandler.php(93): yii\base\Module->runAction('site/error')
+#27 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/ErrorHandler.php(109): yii\web\ErrorHandler->renderException(Object(yii\web\NotFoundHttpException))
+#28 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\NotFoundHttpException))
+#29 {main}
+Additional Information:
+
+Previous exception:
+exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "favicon.ico".' in /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Module.php:462
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/yiisoft/yii2/web/Application.php(100): yii\base\Module->runAction('favicon.ico', Array)
+#1 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/eazycheque/public_html/index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /home/eazycheque/public_html/vendor/yiisoft/yii2/web/Application.php:112
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/eazycheque/public_html/index.php(19): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'PATH' => '/sbin:/usr/sbin:/bin:/usr/bin',
+    'PWD' => '/usr/local/cpanel/cgi-sys',
+    'SHLVL' => '0',
+    'PHP_FCGI_MAX_REQUESTS' => '5000',
+    'SCRIPT_NAME' => '/index.php',
+    'REQUEST_URI' => '/favicon.ico',
+    'QUERY_STRING' => 'favicon.ico',
+    'REQUEST_METHOD' => 'GET',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REDIRECT_QUERY_STRING' => 'favicon.ico',
+    'REDIRECT_URL' => '/favicon.ico',
+    'REMOTE_PORT' => '62123',
+    'SCRIPT_FILENAME' => '/home/eazycheque/public_html/index.php',
+    'SERVER_ADMIN' => 'webmaster@eazycheque.com',
+    'CONTEXT_DOCUMENT_ROOT' => '/home/eazycheque/public_html',
+    'CONTEXT_PREFIX' => '',
+    'REQUEST_SCHEME' => 'http',
+    'DOCUMENT_ROOT' => '/home/eazycheque/public_html',
+    'REMOTE_ADDR' => '92.99.180.131',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '43.255.154.40',
+    'SERVER_NAME' => 'www.eazycheque.com',
+    'SERVER_SOFTWARE' => 'Apache/2.4.23',
+    'SERVER_SIGNATURE' => '',
+    'LD_LIBRARY_PATH' => '/usr/local/apache/lib',
+    'HTTP_COOKIE' => 'advanced-frontend=mq2gkb41m83vtq704309s5gan0; _csrf=78497e721e8ef1395bc7082bb727fe6f2ce636b3d14af83676acd67128a7a36aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22FV2CkdMZ08UT2wd7Bn5cSlUHFheI4xgs%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch',
+    'HTTP_REFERER' => 'http://www.eazycheque.com/printcheque/print-cheque/index?id=158',
+    'HTTP_ACCEPT' => 'image/webp,image/*,*/*;q=0.8',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+    'HTTP_CONNECTION' => 'close',
+    'HTTP_HOST' => 'www.eazycheque.com',
+    'UNIQUE_ID' => 'WOd4H5RI6IMADnz5-gIAAAEX',
+    'REDIRECT_STATUS' => '200',
+    'REDIRECT_UNIQUE_ID' => 'WOd4H5RI6IMADnz5-gIAAAEX',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/index.php',
+    'REQUEST_TIME_FLOAT' => 1491564575.5693709850311279296875,
+    'REQUEST_TIME' => 1491564575,
+]
+[11-Apr-2017 06:30:00 UTC] PHP Fatal error:  Class 'frontend\controllers\Contact' not found in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 411
+[11-Apr-2017 06:30:44 UTC] PHP Fatal error:  Class 'common\models\Contact' not found in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 412
+[11-Apr-2017 06:30:44 UTC] PHP Fatal error:  Class 'common\models\Contact' not found in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 412
+[11-Apr-2017 06:30:44 UTC] PHP Fatal error:  Class 'common\models\Contact' not found in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 412
+[11-Apr-2017 06:30:45 UTC] PHP Fatal error:  Class 'common\models\Contact' not found in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 412
+[11-Apr-2017 06:36:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[11-Apr-2017 06:36:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[11-Apr-2017 06:37:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[11-Apr-2017 06:37:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[11-Apr-2017 06:37:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[11-Apr-2017 06:37:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[11-Apr-2017 06:38:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/eazycheque/public_html/frontend/controllers/SiteController.php on line 474
+[08-May-2017 07:26:46 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eazycheque/public_html/frontend/controllers/ApiController.php on line 186
+[08-May-2017 07:27:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eazycheque/public_html/frontend/controllers/ApiController.php on line 186
+[08-May-2017 07:28:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eazycheque/public_html/frontend/controllers/ApiController.php on line 188
+[08-May-2017 07:28:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/eazycheque/public_html/frontend/controllers/ApiController.php on line 188
+[09-May-2017 12:12:10 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 215
+[03-Jun-2017 09:02:34 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 215
+[06-Jun-2017 08:37:18 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 08:37:18 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 08:40:52 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 08:57:51 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 08:57:51 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 09:05:16 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 09:51:25 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[06-Jun-2017 09:52:27 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[20-Jun-2017 04:55:14 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[20-Jun-2017 13:18:10 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[12-Jul-2017 08:25:13 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 216
+[26-Aug-2017 06:30:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 22343680 bytes) in /home/eazycheque/public_html/vendor/yiisoft/yii2/web/View.php on line 180
+[26-Aug-2017 06:31:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 22343680 bytes) in /home/eazycheque/public_html/vendor/yiisoft/yii2/web/View.php on line 180
+[26-Aug-2017 06:31:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 22343680 bytes) in /home/eazycheque/public_html/vendor/yiisoft/yii2/web/View.php on line 180
+[28-Aug-2017 00:17:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:17:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:17:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:17:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:17:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:17:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:17:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 00:20:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[28-Aug-2017 05:13:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[28-Aug-2017 05:16:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[07-Sep-2017 07:13:48 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 220
+[19-Oct-2017 13:13:18 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 220
+[06-Nov-2017 13:36:57 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 218
+[12-Nov-2017 17:43:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:43:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:43:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:43:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:43:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:43:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:44:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[12-Nov-2017 17:46:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[12-Nov-2017 17:46:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[15-Nov-2017 08:34:58 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 218
+[15-Nov-2017 08:35:13 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 218
+[18-Jan-2018 06:20:58 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 218
+[19-Jan-2018 07:52:27 UTC] PHP Fatal error:  Class 'frontend\modules\printcheque\controllers\NotFoundHttpException' not found in /home/eazycheque/public_html/frontend/modules/printcheque/controllers/PrintChequeController.php on line 218
+[04-Mar-2018 06:36:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:37:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:38:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:38:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:38:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:39:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:39:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:39:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:40:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:45:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 06:49:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:38:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:38:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:39:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:39:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:40:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:45:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:45:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:49:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:50:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:50:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:50:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[04-Mar-2018 13:53:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 95
+[05-Mar-2018 10:16:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[05-Mar-2018 13:45:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[05-Mar-2018 13:50:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[05-Mar-2018 13:50:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[05-Mar-2018 13:50:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 97
+[05-Mar-2018 13:54:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123731968 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 99
+[05-Mar-2018 13:56:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123731968 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 99
+[05-Mar-2018 14:14:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123469824 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 99
+[06-Mar-2018 03:23:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123469824 bytes) in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 99
+[06-Mar-2018 03:42:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/eazycheque/public_html/frontend/views/dashboard/_print_form.php on line 490

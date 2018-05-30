@@ -1,0 +1,1 @@
+[09-Feb-2017 11:25:41 UTC] PHP Fatal error:  Class 'HTMLPurifier_Printer' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Printer/ConfigForm.php on line 7

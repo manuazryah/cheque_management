@@ -1,0 +1,2 @@
+[06-Feb-2017 01:46:42 UTC] PHP Fatal error:  Class 'yii\helpers\Inflector' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/form/default/action.php on line 14
+[06-Feb-2017 04:07:52 UTC] PHP Fatal error:  Call to a member function getModelAttributes() on a non-object in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/form/default/form.php on line 24

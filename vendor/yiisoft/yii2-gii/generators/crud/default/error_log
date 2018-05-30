@@ -1,0 +1,2 @@
+[06-Feb-2017 05:41:40 UTC] PHP Fatal error:  Class 'yii\helpers\StringHelper' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/crud/default/controller.php on line 13
+[06-Feb-2017 07:14:32 UTC] PHP Fatal error:  Class 'yii\helpers\StringHelper' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/crud/default/search.php on line 12

@@ -1,0 +1,8 @@
+[06-Feb-2017 13:09:03 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/AutoParagraph.php on line 10
+[09-Feb-2017 17:59:23 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveEmpty.php on line 4
+[11-Feb-2017 21:42:32 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/Linkify.php on line 7
+[12-Feb-2017 13:34:34 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveSpansWithoutAttributes.php on line 7
+[13-Feb-2017 08:45:07 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/SafeObject.php on line 8
+[14-Feb-2017 12:06:49 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/PurifierLinkify.php on line 8
+[14-Feb-2017 18:31:24 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/DisplayLinkURI.php on line 7
+[15-Apr-2017 22:02:16 UTC] PHP Fatal error:  Class 'HTMLPurifier_Injector' not found in /home/eazycheque/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveSpansWithoutAttributes.php on line 7

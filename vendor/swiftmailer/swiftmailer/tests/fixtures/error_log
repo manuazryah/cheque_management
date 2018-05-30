@@ -1,0 +1,1 @@
+[05-Feb-2017 11:14:44 UTC] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 4

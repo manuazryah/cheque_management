@@ -1,0 +1,1 @@
+[05-Feb-2017 09:07:57 UTC] PHP Fatal error:  Class 'yii\base\Action' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/actions/db/ExplainAction.php on line 21

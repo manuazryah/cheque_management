@@ -1,0 +1,2 @@
+[17-Feb-2017 04:19:27 UTC] PHP Fatal error:  Class 'Faker\Provider\fr_FR\Address' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/src/Faker/Provider/fr_CA/Address.php on line 6
+[17-Feb-2017 11:35:34 UTC] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/src/Faker/Provider/fr_CA/Person.php on line 6

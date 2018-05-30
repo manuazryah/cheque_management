@@ -1,0 +1,1 @@
+[06-Feb-2017 02:45:58 UTC] PHP Fatal error:  Call to a member function generateUrlParams() on a non-object in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/crud/default/views/index.php on line 9

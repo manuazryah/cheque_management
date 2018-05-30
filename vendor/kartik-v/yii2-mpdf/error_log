@@ -1,0 +1,1 @@
+[03-Feb-2017 11:56:28 UTC] PHP Fatal error:  Class 'yii\base\Component' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-mpdf/Pdf.php on line 26

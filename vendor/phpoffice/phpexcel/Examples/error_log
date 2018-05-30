@@ -1,0 +1,80 @@
+[04-Feb-2017 02:08:29 Europe/London] PHP Warning:  require_once(../Build/PHPExcel.phar): failed to open stream: No such file or directory in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/01pharSimple.php on line 37
+[04-Feb-2017 02:08:29 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../Build/PHPExcel.phar' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/01pharSimple.php on line 37
+[04-Feb-2017 02:17:58 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Error zipping files : PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open temporary file '/tmppclzip-589539d64d5f3.tmp' in binary write mode' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php:108
+Stack trace:
+#0 /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php(278): PHPExcel_Shared_ZipArchive->addFromString('_rels/.rels', '<?xml version="...')
+#1 /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/01simplePCLZip.php(91): PHPExcel_Writer_Excel2007->save('/home/eazycheq/...')
+#2 {main}
+  thrown in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php on line 108
+[04-Feb-2017 02:18:11 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Error zipping files : PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open temporary file '/tmppclzip-589539e3960b3.tmp' in binary write mode' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php:108
+Stack trace:
+#0 /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php(278): PHPExcel_Shared_ZipArchive->addFromString('_rels/.rels', '<?xml version="...')
+#1 /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/07readerPCLZip.php(63): PHPExcel_Writer_Excel2007->save('/home/eazycheq/...')
+#2 {main}
+  thrown in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php on line 108
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 36
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 40
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 51
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 91
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 117
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 131
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 137
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 142
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 146
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 152
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 166
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 177
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 190
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 202
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 207
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 266
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 270
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 282
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 291
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 304
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 315
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 322
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 327
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 332
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 337
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 344
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 353
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 357
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 361
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 365
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 374
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 383
+[04-Feb-2017 02:30:08 UTC] PHP Notice:  Use of undefined constant EOL - assumed 'EOL' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php on line 388
+[04-Feb-2017 09:18:02 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Error zipping files : PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open temporary file '/tmppclzip-58959c4ab864c.tmp' in binary write mode' in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php:108
+Stack trace:
+#0 /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php(278): PHPExcel_Shared_ZipArchive->addFromString('_rels/.rels', '<?xml version="...')
+#1 /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Examples/OOCalcReaderPCLZip.php(55): PHPExcel_Writer_Excel2007->save('/home/eazycheq/...')
+#2 {main}
+  thrown in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php on line 108
+[20-Apr-2017 07:19:45 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php on line 82
+[20-Apr-2017 07:20:08 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Error zipping files : PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open temporary file '/tmppclzip-58f85318dd7d9.tmp' in binary write mode' in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php:108
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php(278): PHPExcel_Shared_ZipArchive->addFromString('_rels/.rels', '<?xml version="...')
+#1 /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Examples/OOCalcReaderPCLZip.php(55): PHPExcel_Writer_Excel2007->save('/home/eazychequ...')
+#2 {main}
+  thrown in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php on line 108
+[20-Apr-2017 07:20:17 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Error zipping files : PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open temporary file '/tmppclzip-58f85321b144f.tmp' in binary write mode' in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php:108
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php(278): PHPExcel_Shared_ZipArchive->addFromString('_rels/.rels', '<?xml version="...')
+#1 /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Examples/01simplePCLZip.php(91): PHPExcel_Writer_Excel2007->save('/home/eazychequ...')
+#2 {main}
+  thrown in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php on line 108
+[20-Aug-2017 22:57:07 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php on line 82
+[27-Aug-2017 01:36:53 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Writer_Exception' with message 'Error zipping files : PCLZIP_ERR_READ_OPEN_FAIL (-2) : Unable to open temporary file '/tmppclzip-59a214259aac0.tmp' in binary write mode' in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php:108
+Stack trace:
+#0 /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel2007.php(278): PHPExcel_Shared_ZipArchive->addFromString('_rels/.rels', '<?xml version="...')
+#1 /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Examples/01simplePCLZip.php(91): PHPExcel_Writer_Excel2007->save('/home/eazychequ...')
+#2 {main}
+  thrown in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/ZipArchive.php on line 108
+[13-Sep-2017 08:25:11 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/OOCalc.php on line 342
+[24-Sep-2017 20:15:13 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php on line 82
+[26-Sep-2017 20:24:09 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/OOCalc.php on line 342
+[09-Oct-2017 21:30:52 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Reader/OOCalc.php on line 342
+[10-Oct-2017 09:41:42 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php on line 82
+[11-Nov-2017 01:50:01 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php on line 82
+[05-Jan-2018 18:40:39 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/eazycheque/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/File.php on line 82

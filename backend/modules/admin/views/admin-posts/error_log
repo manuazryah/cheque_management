@@ -1,0 +1,1 @@
+[03-Feb-2017 15:43:04 UTC] PHP Fatal error:  Class 'yii\widgets\Pjax' not found in /home/eazycheq/public_html/backend/modules/admin/views/admin-posts/index.php on line 7

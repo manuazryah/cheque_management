@@ -1,0 +1,1 @@
+[06-Feb-2017 12:32:26 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/ByteStream/FileByteStreamAcceptanceTest.php on line 4

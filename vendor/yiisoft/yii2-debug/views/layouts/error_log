@@ -1,0 +1,1 @@
+[05-Feb-2017 17:07:38 UTC] PHP Fatal error:  Class 'yii\debug\DebugAsset' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/views/layouts/main.php on line 6

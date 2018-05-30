@@ -1,0 +1,2 @@
+[02-Feb-2017 20:48:11 UTC] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/eazycheq/public_html/backend/views/layouts/main.php on line 12
+[03-Feb-2017 11:48:05 UTC] PHP Fatal error:  Class 'backend\assets\AppAssetLogin' not found in /home/eazycheq/public_html/backend/views/layouts/login.php on line 12

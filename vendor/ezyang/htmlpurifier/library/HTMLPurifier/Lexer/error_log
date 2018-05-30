@@ -1,0 +1,2 @@
+[06-Feb-2017 15:21:00 UTC] PHP Fatal error:  Class 'HTMLPurifier_Lexer_DOMLex' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/PH5P.php on line 14
+[10-Feb-2017 09:05:08 UTC] PHP Fatal error:  Class 'HTMLPurifier_Lexer' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/DOMLex.php on line 28

@@ -1,0 +1,2 @@
+[03-Feb-2017 20:34:09 UTC] PHP Fatal error:  Class 'yii\widgets\ActiveField' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/components/ActiveField.php on line 18
+[03-Feb-2017 21:05:27 UTC] PHP Fatal error:  Class 'Diff_Renderer_Html_Array' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/components/DiffRendererHtmlInline.php on line 17

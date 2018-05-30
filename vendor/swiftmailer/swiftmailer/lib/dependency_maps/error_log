@@ -1,0 +1,4 @@
+[04-Feb-2017 17:30:31 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3
+[05-Feb-2017 06:45:03 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3
+[05-Feb-2017 10:46:22 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[05-Feb-2017 18:00:55 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3

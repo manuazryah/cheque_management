@@ -1,0 +1,2 @@
+[06-Feb-2017 12:37:25 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/test/Faker/Provider/en_US/PhoneNumberTest.php on line 9
+[12-Feb-2017 12:09:18 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/test/Faker/Provider/en_US/PaymentTest.php on line 9

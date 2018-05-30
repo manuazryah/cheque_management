@@ -1,0 +1,257 @@
+<html>
+    <head>
+        <style type="text/css">
+            tfoot{display: table-footer-group;}
+            table { page-break-inside:auto;}
+            tr{ page-break-inside:avoid; page-break-after:auto; }
+
+            @page {
+                size: A4;
+            }
+            @media print {
+                thead {display: table-header-group;}
+                tfoot {display: table-footer-group}
+                /*tfoot {position: absolute;bottom: 0px;}*/
+                .main-tabl{width: 100%}
+                .footer {position: fixed ; left: 0px; bottom: 0px; right: 0px; font-size:10px; }
+                .main-tabl{
+                    -webkit-print-color-adjust: exact;
+                    margin: auto;
+                    /*tr{ page-break-inside:avoid; page-break-after:auto; }*/
+                }
+
+            }
+            @media screen{
+                .main-tabl{
+                    width: 60%;
+                }
+            }
+            body h6,h1,h2,h3,h4,h5,p,b,tr,td,span,div{
+                color:#525252 !important;
+            }
+            table th{
+                text-align: left !important;
+            }
+            .tbl{
+                width: 100%;border-bottom: 2px solid #e1e1e1;padding: 15px 0px;
+            }
+            .tbl tr,th,td{
+                border:none ! important;
+            }
+        </style>
+    </head>
+    <body>
+        <main id="maincontent">
+            <section class="resume">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel-body" style="">
+                            <table class="tbl">
+                                <tr>
+                                    <td style="width: 90%">
+                                        <table style="width: 100%;">
+                                            <tr><td colspan="2"><strong><h4 style="margin-bottom: 20px;">Manu</h4></strong></td></tr>
+                                            <tr>
+                                                <td style="line-height: 30px;"><strong>Title : </strong>Chartered Accountant</td>
+                                                <td style="line-height: 30px;"><strong>Reference No : </strong>00001</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="line-height: 30px;"><strong>Nationality : </strong>INDIA</td>
+                                                <td style="line-height: 30px;"><strong>Currently:</strong> UAE , Dubai</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="line-height: 30px;"><strong>Expected Salary : </strong> 5</td>
+                                                <td style="line-height: 30px;"><strong>Job Type : </strong> Full Time</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="line-height: 30px;"><strong>Gender : </strong> Male</td>
+                                                <td style="line-height: 30px;"><strong>DOB : </strong> 2018-03-21</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="line-height: 30px;"><strong>Email : </strong> test@test.com</td>
+                                                <td style="line-height: 30px;"><strong>Phone : </strong> 9744787141</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td style="width: 10%">
+                                        <img class="img-responsive" src="http://localhost/cvs-database/uploads/candidate/profile_picture/1.png"/>                                    </td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Job Status</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">Not employed looking for job</td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Executive summary</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis ultricies nec pellentesque eu.</p>
+</td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Industry</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">
+                                        Marketing, Finance                                    </td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Key Skills</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">
+                                                                            </td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Work Experience</strong></th>
+                                </tr>
+                                                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>bbbbccc at aaaabbb</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>From : Feb 2015 to Mar 2016</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>Job Responsibilities:</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>aaa</span>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>php developer at azryah</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>From : Mar 2010 to Jan 2015</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>Job Responsibilities:</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>bbb</span>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>developer at sdsdg</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>From : Apr 2016 to Apr 2018</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span>Job Responsibilities:</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="line-height: 30px;">
+                                                <span></span>
+                                            </td>
+                                        </tr>
+                                                                    </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th colspan="5" style="line-height: 30px;"><strong>Education - Academic</strong></th>
+                                </tr>
+                                                                    <tr>
+                                        <th style="line-height: 35px;">Course Name</th>
+                                        <th style="line-height: 35px;">Colege/ University</th>
+                                        <th style="line-height: 35px;">Country</th>
+                                        <th style="line-height: 35px;">From Year</th>
+                                        <th style="line-height: 35px;">To Year</th>
+                                    </tr>
+                                                                            <tr>
+                                            <td>MCA</td>
+                                            <td>aaaabbbb</td>
+                                            <td>UAE</td>
+                                            <td>Apr 2012</td>
+                                            <td>Mar 2015</td>
+                                        </tr>
+                                                                            <tr>
+                                            <td>BCA</td>
+                                            <td>bbbbbcccc</td>
+                                            <td>UAE</td>
+                                            <td>Mar 2010</td>
+                                            <td>Mar 2012</td>
+                                        </tr>
+                                                                                                    </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Interests/ Hobbies</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">dhgfj</td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Extra Curricular Activities</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">rghgj</td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table class="tbl">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Languages Known</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">
+                                        English, Arabic                                    </td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                            <table style="width:100%">
+                                <tr>
+                                    <th style="line-height: 30px;"><strong>Driving License</strong></th>
+                                </tr>
+                                <tr>
+                                    <td style="line-height: 30px;">
+                                        UAE                                    </td>
+                                </tr>
+                            </table>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </body>
+</html>

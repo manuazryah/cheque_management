@@ -1,0 +1,4 @@
+[12-Feb-2017 08:11:11 UTC] PHP Fatal error:  Class 'PHPExcel_Writer_HTML' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/PDF/Core.php on line 37
+[12-Feb-2017 23:22:34 UTC] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/PDF/DomPDF.php on line 30
+[13-Feb-2017 05:22:42 UTC] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/PDF/mPDF.php on line 30
+[14-Feb-2017 19:33:10 UTC] PHP Fatal error:  Class 'PHPExcel_Settings' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/PDF/tcPDF.php on line 30

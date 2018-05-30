@@ -1,0 +1,9 @@
+[03-Feb-2017 06:57:25 UTC] PHP Fatal error:  Class 'yii\base\Module' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/Module.php on line 19
+[03-Feb-2017 07:00:07 UTC] PHP Fatal error:  Class 'yii\base\Widget' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/Widget.php on line 22
+[03-Feb-2017 07:15:25 UTC] PHP Fatal error:  Class 'kartik\base\InputWidget' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/Html5Input.php on line 24
+[03-Feb-2017 07:17:22 UTC] PHP Fatal error:  Class 'yii\widgets\InputWidget' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/InputWidget.php on line 39
+[03-Feb-2017 07:18:16 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/AssetBundle.php on line 19
+[03-Feb-2017 07:23:13 UTC] PHP Fatal error:  Class 'kartik\base\AssetBundle' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/WidgetAsset.php on line 21
+[03-Feb-2017 07:27:16 UTC] PHP Fatal error:  Class 'kartik\base\AssetBundle' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/AnimateAsset.php on line 19
+[03-Feb-2017 07:32:53 UTC] PHP Fatal error:  Class 'kartik\base\AssetBundle' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/Html5InputAsset.php on line 18
+[03-Feb-2017 07:37:28 UTC] PHP Fatal error:  Class 'kartik\base\AssetBundle' not found in /home/eazycheq/public_html/vendor/kartik-v/yii2-krajee-base/PluginAssetBundle.php on line 19

@@ -1,0 +1,2 @@
+[05-Feb-2017 08:13:55 UTC] PHP Fatal error:  Class 'yii\gii\Generator' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/form/Generator.php on line 23
+[05-Feb-2017 12:31:39 UTC] PHP Fatal error:  Call to a member function field() on a non-object in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/form/form.php on line 6

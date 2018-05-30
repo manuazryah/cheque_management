@@ -1,0 +1,2 @@
+[03-Feb-2017 01:28:09 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/frontend/modules/payee/controllers/PayeeController.php on line 18
+[03-Feb-2017 01:28:10 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/frontend/modules/payee/controllers/DefaultController.php on line 11

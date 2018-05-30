@@ -1,0 +1,5 @@
+[04-Feb-2017 08:30:11 UTC] PHP Fatal error:  Uncaught exception 'LogicException' with message 'Passed array does not specify an existing static method (class 'HTMLPurifierExtras' not found)' in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/extras/HTMLPurifierExtras.autoload.php:14
+Stack trace:
+#0 /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/extras/HTMLPurifierExtras.autoload.php(14): spl_autoload_register(Array)
+#1 {main}
+  thrown in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/extras/HTMLPurifierExtras.autoload.php on line 14

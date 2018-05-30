@@ -1,0 +1,1 @@
+[03-Feb-2017 22:28:56 UTC] PHP Fatal error:  Using $this when not in object context in /home/eazycheq/public_html/frontend/modules/printcheque/views/print-status/index.php on line 10

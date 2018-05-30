@@ -1,0 +1,1 @@
+[05-Feb-2017 03:55:59 UTC] PHP Fatal error:  Class 'yii\base\Component' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/components/search/Filter.php on line 20

@@ -1,0 +1,7 @@
+[05-Feb-2017 04:34:59 UTC] PHP Fatal error:  Class 'yii\debug\models\search\Base' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Timeline.php on line 22
+[05-Feb-2017 08:24:48 UTC] PHP Fatal error:  Class 'yii\debug\models\search\Base' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Mail.php on line 20
+[05-Feb-2017 09:43:33 UTC] PHP Fatal error:  Class 'yii\base\Model' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Base.php on line 21
+[05-Feb-2017 11:43:19 UTC] PHP Fatal error:  Class 'yii\debug\models\search\Base' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Db.php on line 21
+[05-Feb-2017 11:50:49 UTC] PHP Fatal error:  Class 'yii\debug\models\search\Base' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Profile.php on line 21
+[05-Feb-2017 11:59:59 UTC] PHP Fatal error:  Class 'yii\debug\models\search\Base' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Debug.php on line 21
+[05-Feb-2017 18:17:47 UTC] PHP Fatal error:  Class 'yii\debug\models\search\Base' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/models/search/Log.php on line 21

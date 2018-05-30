@@ -1,0 +1,2 @@
+[15-Feb-2017 05:53:01 UTC] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[16-Feb-2017 21:56:47 UTC] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16

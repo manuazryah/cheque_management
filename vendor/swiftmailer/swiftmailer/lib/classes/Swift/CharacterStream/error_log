@@ -1,0 +1,2 @@
+[13-Feb-2017 13:15:53 UTC] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 17
+[14-Feb-2017 16:43:04 UTC] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 17

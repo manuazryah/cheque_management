@@ -1,0 +1,1 @@
+[04-Feb-2017 13:31:55 UTC] PHP Fatal error:  Using $this when not in object context in /home/eazycheq/public_html/backend/modules/masters/views/country/index.php on line 10

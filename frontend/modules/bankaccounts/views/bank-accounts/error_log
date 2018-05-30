@@ -1,0 +1,1 @@
+[03-Feb-2017 23:01:03 UTC] PHP Fatal error:  Using $this when not in object context in /home/eazycheq/public_html/frontend/modules/bankaccounts/views/bank-accounts/index.php on line 13

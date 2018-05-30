@@ -1,0 +1,2 @@
+[03-Feb-2017 05:14:35 UTC] PHP Fatal error:  Interface 'Composer\Plugin\PluginInterface' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-composer/Plugin.php on line 26
+[03-Feb-2017 06:48:52 UTC] PHP Fatal error:  Class 'Composer\Installer\LibraryInstaller' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-composer/Installer.php on line 22

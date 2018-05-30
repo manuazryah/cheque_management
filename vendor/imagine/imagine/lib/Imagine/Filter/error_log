@@ -1,0 +1,2 @@
+[05-Feb-2017 19:39:28 UTC] PHP Fatal error:  Interface 'Imagine\Filter\FilterInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/ImagineAware.php on line 21
+[06-Feb-2017 00:22:32 UTC] PHP Fatal error:  Interface 'Imagine\Filter\FilterInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/Transformation.php on line 39

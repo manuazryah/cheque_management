@@ -1,0 +1,1 @@
+[03-Feb-2017 12:14:15 UTC] PHP Fatal error:  Class 'yii\imagine\BaseImage' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-imagine/Image.php on line 26

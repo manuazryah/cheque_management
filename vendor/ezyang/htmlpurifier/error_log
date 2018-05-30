@@ -1,0 +1,2 @@
+[03-Feb-2017 12:19:51 UTC] PHP Warning:  require_once(PEAR/PackageFileManager2.php): failed to open stream: No such file or directory in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/package.php on line 5
+[03-Feb-2017 12:19:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'PEAR/PackageFileManager2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/package.php on line 5

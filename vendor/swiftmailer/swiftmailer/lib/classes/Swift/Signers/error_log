@@ -1,0 +1,6 @@
+[07-Feb-2017 17:33:47 UTC] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 17
+[08-Feb-2017 07:59:43 UTC] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 17
+[11-Feb-2017 00:32:51 UTC] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 17
+[11-Feb-2017 19:46:36 UTC] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[12-Feb-2017 06:31:07 UTC] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 19
+[13-Feb-2017 09:33:52 UTC] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 18

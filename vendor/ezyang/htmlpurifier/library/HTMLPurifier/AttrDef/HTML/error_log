@@ -1,0 +1,1 @@
+[10-Feb-2017 07:07:22 UTC] PHP Fatal error:  Class 'HTMLPurifier_AttrDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/HTML/Pixels.php on line 7

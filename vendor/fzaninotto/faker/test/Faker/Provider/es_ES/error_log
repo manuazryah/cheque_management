@@ -1,0 +1,1 @@
+[12-Feb-2017 14:48:47 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/fzaninotto/faker/test/Faker/Provider/es_ES/PersonTest.php on line 9

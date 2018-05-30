@@ -1,0 +1,4 @@
+[06-Feb-2017 12:52:09 UTC] PHP Fatal error:  Class 'HTMLPurifier_AttrDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/URI.php on line 8
+[06-Feb-2017 14:14:56 UTC] PHP Fatal error:  Class 'HTMLPurifier_AttrDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/Text.php on line 7
+[06-Feb-2017 21:18:09 UTC] PHP Fatal error:  Class 'HTMLPurifier_AttrDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/Lang.php on line 8
+[09-Feb-2017 11:09:49 UTC] PHP Fatal error:  Class 'HTMLPurifier_AttrDef' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/Enum.php on line 11

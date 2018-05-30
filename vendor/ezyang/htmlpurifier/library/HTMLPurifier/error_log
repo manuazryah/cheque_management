@@ -1,0 +1,4 @@
+[05-Feb-2017 19:17:39 UTC] PHP Fatal error:  Class 'HTMLPurifier_Exception' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/VarParserException.php on line 7
+[05-Feb-2017 19:56:11 UTC] PHP Fatal error:  Class 'HTMLPurifier_Definition' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/HTMLDefinition.php on line 27
+[06-Feb-2017 16:25:07 UTC] PHP Fatal error:  Class 'HTMLPurifier_Definition' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/CSSDefinition.php on line 8
+[06-Feb-2017 17:37:26 UTC] PHP Fatal error:  Class 'HTMLPurifier_Definition' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/URIDefinition.php on line 4

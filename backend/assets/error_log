@@ -1,0 +1,2 @@
+[26-Jan-2017 14:57:58 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/backend/assets/AppAsset.php on line 10
+[03-Feb-2017 16:12:24 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/eazycheq/public_html/backend/assets/AppAssetLogin.php on line 10

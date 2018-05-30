@@ -1,0 +1,1 @@
+[01-Feb-2017 12:54:28 UTC] PHP Fatal error:  Class 'yii\base\Module' not found in /home/eazycheq/public_html/frontend/modules/payee/Module.php on line 9

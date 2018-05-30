@@ -1,0 +1,14 @@
+[06-Feb-2017 13:28:33 UTC] PHP Fatal error:  Interface 'Swift_Mime_HeaderSet' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderSet.php on line 17
+[06-Feb-2017 14:20:07 UTC] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder.php on line 17
+[06-Feb-2017 16:02:27 UTC] PHP Fatal error:  Class 'Swift_Mime_SimpleMimeEntity' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Attachment.php on line 17
+[10-Feb-2017 11:03:24 UTC] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Message.php on line 17
+[11-Feb-2017 08:09:55 UTC] PHP Fatal error:  Interface 'Swift_Mime_CharsetObserver' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderFactory.php on line 17
+[11-Feb-2017 13:44:34 UTC] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMimeEntity.php on line 17
+[11-Feb-2017 22:23:19 UTC] PHP Fatal error:  Interface 'Swift_Mime_CharsetObserver' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/MimeEntity.php on line 16
+[12-Feb-2017 03:27:27 UTC] PHP Fatal error:  Interface 'Swift_Mime_HeaderFactory' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php on line 17
+[12-Feb-2017 05:17:39 UTC] PHP Fatal error:  Class 'Swift_Mime_SimpleMimeEntity' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/MimePart.php on line 17
+[12-Feb-2017 17:52:31 UTC] PHP Fatal error:  Class 'Swift_Mime_MimePart' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMessage.php on line 16
+[12-Feb-2017 18:26:35 UTC] PHP Fatal error:  Interface 'Swift_Mime_Header' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ParameterizedHeader.php on line 17
+[13-Feb-2017 05:19:03 UTC] PHP Fatal error:  Interface 'Swift_Mime_CharsetObserver' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderSet.php on line 17
+[13-Feb-2017 16:10:32 UTC] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder.php on line 17
+[14-Feb-2017 19:03:55 UTC] PHP Fatal error:  Class 'Swift_Mime_Attachment' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/EmbeddedFile.php on line 17

@@ -1,0 +1,3 @@
+[03-Feb-2017 08:53:31 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/ChequeController.php on line 14
+[03-Feb-2017 08:55:37 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/DefaultController.php on line 11
+[03-Feb-2017 08:56:13 UTC] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/eazycheq/public_html/frontend/modules/bankaccounts/controllers/BankAccountsController.php on line 20

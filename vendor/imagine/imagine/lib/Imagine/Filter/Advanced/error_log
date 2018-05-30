@@ -1,0 +1,5 @@
+[06-Feb-2017 11:51:34 UTC] PHP Fatal error:  Interface 'Imagine\Filter\FilterInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/RelativeResize.php on line 23
+[06-Feb-2017 15:53:10 UTC] PHP Fatal error:  Interface 'Imagine\Filter\FilterInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/Canvas.php on line 26
+[09-Feb-2017 08:27:03 UTC] PHP Fatal error:  Class 'Imagine\Filter\Advanced\OnPixelBased' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/Grayscale.php on line 21
+[10-Feb-2017 18:20:51 UTC] PHP Fatal error:  Interface 'Imagine\Filter\FilterInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/OnPixelBased.php on line 24
+[12-Feb-2017 01:47:23 UTC] PHP Fatal error:  Interface 'Imagine\Filter\FilterInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/Border.php on line 23

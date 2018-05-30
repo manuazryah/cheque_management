@@ -1,0 +1,2 @@
+[05-Feb-2017 03:49:59 UTC] PHP Fatal error:  Class 'yii\helpers\Html' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/extension/form.php on line 9
+[05-Feb-2017 08:23:33 UTC] PHP Fatal error:  Class 'yii\gii\Generator' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/generators/extension/Generator.php on line 24

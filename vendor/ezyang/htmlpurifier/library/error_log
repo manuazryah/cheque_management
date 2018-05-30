@@ -1,0 +1,1 @@
+[04-Feb-2017 08:10:28 UTC] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier.autoload.php on line 11

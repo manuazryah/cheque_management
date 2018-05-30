@@ -1,0 +1,1 @@
+[06-Feb-2017 16:12:39 UTC] PHP Fatal error:  Interface 'Imagine\Image\PointInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Point/Center.php on line 22

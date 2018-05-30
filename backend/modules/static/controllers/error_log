@@ -1,0 +1,1 @@
+[03-Feb-2017 20:53:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC), expecting identifier (T_STRING) in /home/eazycheq/public_html/backend/modules/static/controllers/DefaultController.php on line 3

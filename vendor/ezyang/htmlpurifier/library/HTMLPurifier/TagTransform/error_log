@@ -1,0 +1,1 @@
+[06-Feb-2017 12:48:28 UTC] PHP Fatal error:  Class 'HTMLPurifier_TagTransform' not found in /home/eazycheq/public_html/vendor/ezyang/htmlpurifier/library/HTMLPurifier/TagTransform/Simple.php on line 9

@@ -1,0 +1,10 @@
+[07-Feb-2017 17:16:01 UTC] PHP Fatal error:  Interface 'Swift_Events_CommandListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/LoggerPlugin.php on line 16
+[08-Feb-2017 03:59:25 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/ReporterPlugin.php on line 17
+[08-Feb-2017 06:33:57 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/DecoratorPlugin.php on line 17
+[10-Feb-2017 17:22:35 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/RedirectingPlugin.php on line 17
+[11-Feb-2017 10:40:15 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/MessageLogger.php on line 17
+[11-Feb-2017 13:10:42 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/BandwidthMonitorPlugin.php on line 16
+[11-Feb-2017 20:35:10 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/AntiFloodPlugin.php on line 16
+[11-Feb-2017 20:52:25 UTC] PHP Fatal error:  Class 'Swift_Plugins_BandwidthMonitorPlugin' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/ThrottlerPlugin.php on line 16
+[12-Feb-2017 06:05:47 UTC] PHP Fatal error:  Interface 'Swift_Events_SendListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/ImpersonatePlugin.php on line 17
+[13-Feb-2017 00:20:58 UTC] PHP Fatal error:  Interface 'Swift_Events_TransportChangeListener' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/PopBeforeSmtpPlugin.php on line 16

@@ -1,0 +1,2 @@
+[03-Feb-2017 20:35:57 UTC] PHP Fatal error:  Class 'yii\base\Action' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/console/GenerateAction.php on line 17
+[03-Feb-2017 20:50:08 UTC] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-gii/console/GenerateController.php on line 29

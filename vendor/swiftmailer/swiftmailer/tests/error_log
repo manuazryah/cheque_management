@@ -1,0 +1,5 @@
+[03-Feb-2017 14:45:28 UTC] PHP Warning:  require_once(/home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/vendor/autoload.php): failed to open stream: No such file or directory in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[03-Feb-2017 14:45:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/bootstrap.php on line 3
+[03-Feb-2017 14:52:16 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/SwiftMailerTestCase.php on line 9
+[03-Feb-2017 15:01:36 UTC] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php on line 9
+[03-Feb-2017 15:03:28 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_Constraint' not found in /home/eazycheq/public_html/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php on line 9

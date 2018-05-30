@@ -1,0 +1,1 @@
+[03-Feb-2017 21:07:15 UTC] PHP Fatal error:  Class 'yii\data\ArrayDataProvider' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/components/TimelineDataProvider.php on line 22

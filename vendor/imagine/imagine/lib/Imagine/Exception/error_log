@@ -1,0 +1,4 @@
+[06-Feb-2017 01:18:55 UTC] PHP Fatal error:  Interface 'Imagine\Exception\Exception' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Exception/InvalidArgumentException.php on line 18
+[06-Feb-2017 01:35:42 UTC] PHP Fatal error:  Interface 'Imagine\Exception\Exception' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Exception/RuntimeException.php on line 18
+[06-Feb-2017 10:59:47 UTC] PHP Fatal error:  Class 'Imagine\Exception\RuntimeException' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Exception/NotSupportedException.php on line 17
+[07-Feb-2017 00:28:00 UTC] PHP Fatal error:  Interface 'Imagine\Exception\Exception' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Exception/OutOfBoundsException.php on line 18

@@ -1,0 +1,8 @@
+[03-Feb-2017 20:13:44 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/DbPanel.php on line 26
+[03-Feb-2017 20:18:43 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/LogPanel.php on line 22
+[03-Feb-2017 20:24:23 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/MailPanel.php on line 27
+[03-Feb-2017 20:26:56 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/AssetPanel.php on line 23
+[03-Feb-2017 20:30:40 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/ConfigPanel.php on line 23
+[03-Feb-2017 20:30:54 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/RequestPanel.php on line 21
+[03-Feb-2017 20:39:09 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/TimelinePanel.php on line 26
+[03-Feb-2017 20:42:21 UTC] PHP Fatal error:  Class 'yii\debug\Panel' not found in /home/eazycheq/public_html/vendor/yiisoft/yii2-debug/panels/ProfilingPanel.php on line 22

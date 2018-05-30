@@ -1,0 +1,2 @@
+[05-Feb-2017 13:52:00 UTC] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/eazycheq/public_html/vendor/mongosoft/yii2-upload-behavior/tests/models/User.php on line 12
+[05-Feb-2017 14:45:32 UTC] PHP Fatal error:  Class 'yii\db\ActiveRecord' not found in /home/eazycheq/public_html/vendor/mongosoft/yii2-upload-behavior/tests/models/Document.php on line 12

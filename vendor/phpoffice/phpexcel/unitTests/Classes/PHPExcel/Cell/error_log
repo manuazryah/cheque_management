@@ -1,0 +1,3 @@
+[06-Feb-2017 22:32:16 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/DataTypeTest.php on line 5
+[12-Feb-2017 11:34:01 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/HyperlinkTest.php on line 5
+[12-Feb-2017 15:13:07 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/eazycheq/public_html/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Cell/AdvancedValueBinderTest.php on line 4

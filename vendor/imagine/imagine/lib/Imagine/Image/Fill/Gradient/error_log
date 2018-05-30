@@ -1,0 +1,3 @@
+[14-Feb-2017 06:08:35 UTC] PHP Fatal error:  Class 'Imagine\Image\Fill\Gradient\Linear' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Fill/Gradient/Horizontal.php on line 20
+[14-Feb-2017 08:41:51 UTC] PHP Fatal error:  Interface 'Imagine\Image\Fill\FillInterface' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Fill/Gradient/Linear.php on line 22
+[17-Feb-2017 13:34:38 UTC] PHP Fatal error:  Class 'Imagine\Image\Fill\Gradient\Linear' not found in /home/eazycheq/public_html/vendor/imagine/imagine/lib/Imagine/Image/Fill/Gradient/Vertical.php on line 20
